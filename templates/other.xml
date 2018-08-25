@@ -1,0 +1,8 @@
+<templateSet group="other">
+  <template name="cnss" value="protected static final $CURSOR$" description="Inserts qualifiers for constant" toReformat="false" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
